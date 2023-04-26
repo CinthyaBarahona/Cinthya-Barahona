@@ -1,2 +1,1 @@
-# Cinthya-Barahona
-Mi repositorio personal
+## Sobre mí
