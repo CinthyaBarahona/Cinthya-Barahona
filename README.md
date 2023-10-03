@@ -6,14 +6,6 @@
 
 ###
 
-<h3 align="left">✨ ¿Qué hago actualmente?</h3>
-
-###
-
-<p align="left">Actualmente finalicé un curso de programación BackEnd - JavaScript, Node.js y Express (Básico - Intermedio),<br>y a la vez formo parte del Grupo 5 ONE - Oracle Next Education en el programa ONE Oracle Next Education con Alura LATAM, en el cual estoy siguiendo la ruta en desarrollo FrontEnd y seguir aprendiendo lo mejor de ambos mundos.</p>
-
-###
-
 <h2 align="left">🔧 Lenguajes y Herramientas...</h2>
 
 ###
